@@ -1,0 +1,6 @@
+D:\C#\StoreSKU\StoreSKU\bin\Debug\StoreSKU.dll
+D:\C#\StoreSKU\StoreSKU\bin\Debug\StoreSKU.pdb
+D:\C#\StoreSKU\StoreSKU\obj\Debug\StoreSKU.csproj.AssemblyReference.cache
+D:\C#\StoreSKU\StoreSKU\obj\Debug\StoreSKU.csproj.CoreCompileInputs.cache
+D:\C#\StoreSKU\StoreSKU\obj\Debug\StoreSKU.dll
+D:\C#\StoreSKU\StoreSKU\obj\Debug\StoreSKU.pdb
